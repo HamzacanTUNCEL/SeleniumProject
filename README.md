@@ -1,17 +1,17 @@
 # SeleniumProject "EN"
 
 Selenium Web Automation
--The https://www.lcwaikiki.com/tr-TR/TR site will be opened.
--It will be checked that the main page is opened or not.
--The login process will be checked.
--The word 'trousers' will be entered into the search box.
--scrolls to the end of the page.
--"See more products" button wil clicked.
--According to the result, a random product will be selected from the exhibited products.
--The selected product will be added to the cart.
--The accuracy of the price of the product in the basket will be compared with the price on the product page.
--It will be verified that the number of products is 2 by increasing the number.
--The product will be deleted from the basket and it will be checked that the basket is empty.
+- The https://www.lcwaikiki.com/tr-TR/TR site will be opened.
+- It will be checked that the main page is opened or not.
+- The login process will be checked.
+- The word 'trousers' will be entered into the search box.
+- scrolls to the end of the page.
+- "See more products" button wil clicked.
+- According to the result, a random product will be selected from the exhibited products.
+- The selected product will be added to the cart.
+- The accuracy of the price of the product in the basket will be compared with the price on the product page.
+- It will be verified that the number of products is 2 by increasing the number.
+- The product will be deleted from the basket and it will be checked that the basket is empty.
 
 # SeleniumProject "TR"
 
