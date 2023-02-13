@@ -12,7 +12,7 @@ Selenium Web Automation
 -The accuracy of the price of the product in the basket will be compared with the price on the product page.
 -It will be verified that the number of products is 2 by increasing the number.
 -The product will be deleted from the basket and it will be checked that the basket is empty.
------------------------------------------------------------------------------------------------------------------
+
 # SeleniumProject "TR"
 
 Selenium Web Otomasyon
